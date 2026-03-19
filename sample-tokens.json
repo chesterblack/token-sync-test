@@ -96,6 +96,6 @@
   },
   "test-color-blue-2": {
     "$type": "color",
-    "$value": "#598cd9"
+    "$value": "#94bcf9"
   }
 }
