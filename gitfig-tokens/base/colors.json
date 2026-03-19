@@ -1,0 +1,22 @@
+{
+  "colors": {
+    "primary-color": {
+      "$type": "color",
+      "$value": "#34419f"
+    },
+    "secondary-color": {
+      "$type": "color",
+      "$value": "#d5d5d5"
+    }
+  },
+  "typography": {
+    "base-font-size": {
+      "$type": "number",
+      "$value": 16
+    }
+  },
+  "primary-color": {
+    "$type": "color",
+    "$value": "#ffffff"
+  }
+}
